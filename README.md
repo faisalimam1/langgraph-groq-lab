@@ -1,5 +1,7 @@
 # LangChain + LangGraph Agent Lab (Groq-powered) 🚀
 
+[![Repo](https://img.shields.io/badge/GitHub-langgraph--groq--lab-181717?logo=github)](https://github.com/faisalimam1/langgraph-groq-lab)
+
 A hands-on lab for learning to build **agents and agentic systems** with
 [LangChain](https://python.langchain.com/) and [LangGraph](https://langchain-ai.github.io/langgraph/),
 using the **free [Groq](https://console.groq.com/) API** for fast LLM inference.
